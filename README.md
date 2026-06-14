@@ -17,8 +17,8 @@ A Python-based Network Packet Sniffer that captures and analyzes network traffic
 - Socket Programming
 - Raw Sockets
 
-## Project Structure
+## Project StrucTURE
 
-ENTERN ID --CITS1367
+INTERN ID --CITS1367
 
 
